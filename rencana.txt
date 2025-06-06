@@ -1,8 +1,7 @@
 - Laravel/PHP
 - JS
-  *ES6
-  *Vue
+  *React
 - Python
-  *TF
+  *Django
 - Menjadi Raja Iblis
 - ELM BABI
