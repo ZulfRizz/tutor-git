@@ -1,0 +1,4 @@
+- Laravel/PHP
+- JS
+- Python
+- Menjadi Raja Iblis
