@@ -2,3 +2,4 @@
 - JS
 - Python
 - Menjadi Raja Iblis
+- ELM BABI
