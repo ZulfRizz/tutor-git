@@ -1,5 +1,7 @@
 - Laravel/PHP
 - JS
+  *React
 - Python
+  *Django
 - Menjadi Raja Iblis
 - ELM BABI
