@@ -1,5 +1,8 @@
 - Laravel/PHP
 - JS
+  *ES6
+  *Vue
 - Python
+  *TF
 - Menjadi Raja Iblis
 - ELM BABI
